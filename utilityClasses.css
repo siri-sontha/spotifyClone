@@ -1,0 +1,23 @@
+/* Sri Krishna */
+
+.flex{
+    display: flex;
+}
+
+.invertColor{
+    filter: invert(0);
+}
+
+.gapPointSixPercent{
+    gap: 0.6%;
+}
+
+.gapOnePercent{
+    gap: 1%;
+}
+
+.vertical-center{
+    align-items: center;
+}
+
+/* Sri Krishna */
